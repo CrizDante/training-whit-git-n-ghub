@@ -2,9 +2,20 @@ body{
     text-align: center;
     background-color: gainsboro;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    color:dimgray;
+    margin:0;
+    padding:0;
 }
 
-h1{
-    font-size: 140px;
-    color: dimgray;
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border:1px solid dimgray;
+    margin: 0 auto;
+}
+
+#container h1{
+    font-size: 20px;
 }
